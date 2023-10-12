@@ -1,0 +1,23 @@
+#root {
+  padding: 2rem;
+  text-align: center;
+}
+.camera {
+  display: inline-block;
+  width: 700px;
+  height: 70px;
+  background: black;
+}
+.mirror {
+  display: inline-block;
+  width: 700px;
+  height: 700px;
+  background: silver;
+}
+
+.taskbar {
+  display: inline-block;
+  width: 700px;
+  height: 90px;
+  background: green;
+}
